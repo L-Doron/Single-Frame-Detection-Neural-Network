@@ -1,4 +1,4 @@
-# Single-Frame-Detection-Neural-Network
+# Single Frame Detection Neural Network
 A simple test for the concept of a low SNR single frame detection algorithm using a neural network. 
 In this example a number is detected in a noisy image. This is an introductory project to Tensorflow.
 
